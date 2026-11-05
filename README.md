@@ -7,7 +7,7 @@ I am a Computer Science student graduating in 2026, specializing in architecting
 - 🏗️ **Core Focus:** Building native Android applications utilizing MVVM, Unidirectional Data Flow (UDF), and SOLID principles.
 - 🔗 **Full-Stack Capable:** Experienced in designing and deploying custom REST APIs (Python Flask) and databases to support mobile clients.
 - ⚡ **Algorithms:** Actively practicing Data Structures and Algorithms in Kotlin (200+ LeetCode problems solved, Top Interview 150 completed).
-- 📫 **Let's connect:** [Insert LinkedIn Link] or [Insert Email]
+- 📫 **Let's connect:** singhamarjeetkumar04@gmail.com
 
 ### 🛠️ Tech Stack
 * **Languages:** Kotlin, Java, Python
